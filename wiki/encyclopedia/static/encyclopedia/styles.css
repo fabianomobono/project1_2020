@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1, h4 {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 90vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+
+.newpage{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+.newpage input{
+  width: 40%;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.flashes{
+  text-align: center;
+  background-color: powderblue;
+  font-size: 20px;
+  font-weight: bold;
+  width: 50%;
+  border-radius: 10px;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
